@@ -7,3 +7,6 @@ PDF帳票をダウンロードさせる実装に毎回悩まされる。<br/>
 
 # サンプル画面
 https://koji-yamamoto-github.github.io/create-reports/
+
+# 補足
+ブラウザに表示されている画面とブラウザ印刷で表示される画面を変えています。
