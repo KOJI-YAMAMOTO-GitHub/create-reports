@@ -10,3 +10,6 @@ https://koji-yamamoto-github.github.io/create-reports/
 
 # 補足
 ブラウザに表示されている画面とブラウザ印刷で表示される画面を変えています。
+
+#注意
+Internet Explorerでは、tableタグ内のimgの対するmax-widthが機能しなく、レイアウトが崩れてしまいます。
